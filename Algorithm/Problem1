@@ -1,5 +1,5 @@
 def solveMeFirst(a,b):
-  return a+b
+  return b+a
 
 num1 = input()
 num2 = input()
